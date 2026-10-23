@@ -104,4 +104,4 @@ Example runs (from /build):
 
 ## Doxygen documentation
 
-Doxygen documentation can be found [here]().
+Doxygen documentation can be found [here](https://calibration-framework-for-zuppo-robot-5c6631.gitlab.io/).
