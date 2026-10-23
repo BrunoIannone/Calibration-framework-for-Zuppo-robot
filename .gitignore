@@ -1,0 +1,7 @@
+*.vscode
+archive/
+build/
+install/
+log/
+
+imgui.ini
